@@ -1,6 +1,6 @@
 Name:		texlive-quran
 Version:	57601
-Release:	1
+Release:	2
 Summary:	An easy way to typeset any part of The Holy Quran
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quran
