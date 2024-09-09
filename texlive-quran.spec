@@ -1,5 +1,5 @@
 Name:		texlive-quran
-Version:	67791
+Version:	72223
 Release:	1
 Summary:	An easy way to typeset any part of The Holy Quran
 Group:		Publishing
