@@ -3,7 +3,7 @@ Version:	72223
 Release:	1
 Summary:	An easy way to typeset any part of The Holy Quran
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quran
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/quran
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quran.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quran.doc.r%{version}.tar.xz
